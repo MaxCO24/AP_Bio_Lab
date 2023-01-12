@@ -1,0 +1,163 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[latin1]{inputenc}
+\title{The effectiveness of different household cleaning products}
+\author{Max Mendoza}
+\date{\today}
+
+\begin{document}
+\maketitle 
+
+\section*{Introduction}
+\subsubsection*{Research Question}
+How does the effectiveness of cleaning agents such as benzalkonium chloride (Lysol), 70\% isopropyl alcohol, soap and water, and thymol vary with respect to each other and the time on the sprayed surface is allowed to sit surface before being wiped? For the purpose of this experiment, "effectiveness" is defined to be the minimization of cell growth as measured by number of colonies 
+
+\subsubsection*{Background Information}
+Arguably one of the greatest discoveries of the past 150 years is the link between bacteria and infectious disease. With that has come the understanding of the importance of maintaing a clean environment, and the subsequent adoption certain chemical agents to disinfect said environments. 
+
+Many common infections are caused by various bacteria, including \textit{Streptococcus pyogenes}, \textit{Escherichia coli}, and \textit{Salmonella enterica}. Analysis of bacteria commonly found within households are also those that thrive on skin and within the gut, such as \textit{Propionibacterium acnes}, \textit{Bacteroides vulgatus}, and \textit{Staphylococcus epidermidis} . Of course, these bacteria can pose a threat to human health, and an understanding of effective ways to combat such pathogens is advantageous. 
+
+Today, a wide array of products are available for people to keep their homes clean. Lysol, arguably the most well-known name brand disinfectant, for example, uses benzalkonium chloride as its primary active ingredient. There are also "organic" alternatives such as Boulder Clean, which uses thymol, extracted from \textit{Thymus vulgaris}. One may also use isopropyl alcohol, or even soap and water as a way to disinfect surfaces. 
+
+My parents have always made a point of making sure I maintain a clean environment. With this, I generally would use Lysol to clean countertops. But Lysol has a strong, rather unpleasant smell if used too much. In contrast, the thymol in Boulder Clean does not have any sort of strong scent. And while these two disinfectants may work for countertops, I find myself using isopropyl alcohol to clean electronics. This of course, led me to ponder what disnfectants are most effective, and if instructions to "let the product sit for 2 minutes" really made a difference.
+
+The aim of this experiment is to test these factors by spraying the same surface, partitioned into different sections, with various disnfectants and allowing them to sit for certain time intervals. 
+
+
+\subsubsection*{Hypothesis} Given that common disinfectants all generally work the same --- by in some way disrupting the outer membrane of a bacterium --- the variation in effectiveness across the different chemicals used will be minimal. In contrast, since many cleaning products suggest letting the sprayed surface to sit for up to 10 minutes, there should be a  positive correlation between time and effectiveness.
+
+\subsubsection*{Variables} The two independent variables being controlled in this experiment will be the time the disinfectant is allowed to sit on a surface, and the specific compound used to disinfect. As a control, each section of surface will be swabbed before being disnfected, so as to determine a baseline number of bacteria
+
+One most note possible factors to control during the experiment. It should be important that the surface on which the disinfectants are being sprayed have an equal distribution of bacteria at the start of the experiment. One might achieve this by getting an unopened slat of wood, such as a shelf from Ikea, and letting it sit out somewhere for a few days. Additionally, there is a need to ensure an equal amount of each disinfectant is sprayed onto each respective section. This can be accomplished by using the same kind of spray bottle for each disinfectant. 
+
+\section*{Materials}
+
+\subsubsection*{For creating media}
+\begin{itemize}
+\item ziploc sandwich bags, foil cupcake liners, and cupcake pan, or disposable plastic petri dishes from a biological supply company
+\item plain, unflavored powdered gelatin packets (from the grocery store, in the cooking/baking aisle)
+\item beef bouillon cubes (from the grocery store, in the cooking/baking aisle)
+\item sugar (4 tsp)
+\item water (4 cups)
+\item sauce pan and heating element
+\end{itemize}
+
+\subsubsection*{For collecting samples}
+\begin{itemize}
+\item Q-tips
+\item pre-made gelatin culture dishes (bouillon media)
+\item permanent markers
+\item scotch tape
+\item gloves
+\end{itemize}
+
+\subsubsection*{Disinfectants}
+\begin{itemize}
+\item 70\% isopropyl alcohol
+\item Lysol (benzalkonium chloride)
+\item 20:1 water and soap solution
+\item Boulder Clean (thymol)
+\end{itemize}
+
+\subsubsection*{Miscellaneous}
+\begin{itemize}
+\item designated surface to perform experiment
+\item four 8 oz plastic spray bottles
+\end{itemize}
+
+
+\section*{Procedure}
+\subsubsection*{For creating media}
+\begin{enumerate}
+\item Add 4 cups of cold water to a saucepan
+\item  Mix in 4 packets of powdered gelatin
+\item Mix in 4 beef bouillon cubes
+\item Mix in 4 teaspoons of sugar
+\item Bring slowly to a boil, stirring frequently
+\item Turn off heat, let cool for 5 minutes
+\item Put foil cupcake liners into cupcake pan (for stability), or set petri dishes out on flat surface
+\item Pour hot gelatin solution into containers until they are 1/3 to 1/2 full
+\item Cover, and allow the gelatin to cool until solid
+\item Place foil cupcake liners into individual ziplock backs and refrigerate, or put petri dishes in the refrigerator upside down
+\end{enumerate}
+
+\subsubsection*{For collecting sample}
+\begin{enumerate}
+\item Designate a household surface to act as a place to collect samples
+\item Partition into 16 sections, 4 for each disinfectant x 4 for each time interval
+\item Bring gelatin culture dishes up to room temperature
+\item Use separate Q-tip cotton to swab 4 sections before applying disinfectant
+\item Apply each disinfectant to respective section an let sit for n second
+\item (With gloves) use separate Q-tip cotton to swab each section after being wiped
+\item In a back and forth motion, gently swipe the Q-tip across the surface of the gelatin
+\item Dispose of the Q-tip, cover the gelatin (ziplock bag or petri dish lid) and label it with a permanent marker indicating the date and location of the sample
+\item Store out of direct light at room temperature. If using petri dishes, store them upside down and tape the lids shut
+\item Repeat for the next value of n with a different 4 sections (where n = 5, 15, 30, and 60)
+\item Observe growth on petri dishes over the coming days
+\end{enumerate}
+
+\paragraph{For health reasons DO NOT OPEN once the sample has been collected and sealed
+}
+
+
+\section*{Analysis}
+Note that since cell growth is being measured as the number colonies in a petri dish (i.e. a discrete counted value), there should not be uncertainty if measured properly. Perhaps other metrics to measure growth will be later introduced, such as spectrophotometric analysis, but as of now, access to such tools are limited.
+\paragraph*{}
+\caption{Example Data Table }
+
+\paragraph*{}
+
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}||p{3cm}||c|}
+\hline
+\multicolumn{5}{|c|}{Bacterial Growth as Measured by Number of Colonies} \\
+\hline
+Disinfectant & 5 seconds & 15 seconds & 30 seconds & 60 seconds\\
+\hline
+benzalkonium chloride &  &   &   \\
+\hline
+70\% 
+isopropyl alcohol  &  &   &   \\
+\hline
+soap and water  &  &   &   \\
+\hline
+thymol &  &   &   \\
+\hline
+\end{tabular}
+\paragraph*{}
+\caption{(Please forgive the fact that it's not centered; still figuring that out)}
+\paragraph*{}
+
+
+\section*{References}
+The following are articles that have been useful during the investigation
+
+\begin{enumerate}
+\item Methods of growing bacteria at home: 
+\begin{itemize}
+\item  https://www2.nau.edu/lrm22/lessons/microbiology/microbiology.htm
+\end{itemize}
+\item Common household bacteria 
+\begin{itemize}
+\item  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3790245/
+\end{itemize}
+\item Two papers with similar research questions as my own 
+\begin{itemize}
+\item  https://www2.nau.edu/lrm22/lessons/microbiology/microbiology.htm
+\item https://www.frontiersin.org/articles/10.3389/fmicb.2018.02113/full
+\end{itemize}
+\item CDC article detailing factors effecting the efficacy of disnfectants
+\begin{itemize}
+\item  https://www.cdc.gov/infectioncontrol/guidelines/disinfection/efficacy.html
+\end{itemize}
+\item Methods of analyzing both discrete and continuous data. 
+\begin{itemize}
+\item  http://d-scholarship.pitt.edu/35090/1/Pleis\_John\_dissert\_Aug2018.pdf
+\end{itemize}
+
+\end{enumerate}
+
+
+%(Jeon, Chun, and Kim, 2013)
+\end{document}
